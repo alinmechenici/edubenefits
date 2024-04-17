@@ -1,7 +1,7 @@
 ---
 # preview details
 layout: works-single
-title: Spark School
+title: Spark Generation
 category: Educatie
 category_slug: educatie
 location: National
