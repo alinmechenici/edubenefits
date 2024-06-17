@@ -16,8 +16,13 @@ info:
     value: 100% consultanta
 
   - label: Contact
-    value: <a href="#" target="_blank">Website</a>
+    value: 0743650600
 
+  - label: Website
+    value: <a href="https://www.creditmentor.ro" target="_blank">www.creditmentor.ro</a>
+
+  - label: Adresa
+    value: Nicolae Balcescu, Bl. M15 B, parter, Craiova
 
 description1:
   show: yes
