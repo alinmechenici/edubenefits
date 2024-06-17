@@ -10,18 +10,17 @@ image: assets/img/logos/chenist.png
 short_description: Oferim reducere 10% pentru cursurile CHENIST Academy.
 
 # full details
-live_preview: https://chenist.academy/ro/
+live_preview: https://chenist.academy
 full_image: assets/img/works/single1.jpg
 info:
   - label: Reducere
     value: 10%
   - label: Contact
-    value: <a href="https://chenist.academy" target="_blank">Website</a>
+    value: <a href="https://chenist.academy" target="_blank">chenist.academy</a>
 
 description1:
   show: yes
-  title: " <p>Oferim discount de: 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits; 30 % pentru cursul de <a href="https://chenist.academy" target="_blank">Igiena Digitala pentru copii ("Cybersecurity for Kids") </a> pentru inscriere in iunie 2024.
-</p>"
+  title: " <p>Oferim discount de: 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits; 30 % pentru cursul de Igiena Digitala pentru copii ("Cybersecurity for Kids") pentru inscriere in iunie 2024. </p>"
   text: 
 
 gallery:
