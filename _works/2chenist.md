@@ -20,7 +20,7 @@ info:
 
 description1:
   show: yes
-  title: " <p>Oferim discount de: <br> 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits. <br> 30 % pentru cursul de <a href="https://chenist.academy" target="_blank">Igiena Digitala pentru copii ("Cybersecurity for Kids") </a> pentru inscriere in iunie 2024.
+  title: " <p>Oferim discount de: 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits; 30 % pentru cursul de <a href="https://chenist.academy" target="_blank">Igiena Digitala pentru copii ("Cybersecurity for Kids") </a> pentru inscriere in iunie 2024.
 </p>"
   text: 
 
