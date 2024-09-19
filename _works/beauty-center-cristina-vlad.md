@@ -6,7 +6,7 @@ category: infrumusetare
 category_slug: infrumusetare
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/tinaapartament.png
+image: assets/img/logos/astoria.jpg
 short_description: "10% reducere fata de pretul de lista la pachetele de epilare definitiva laser medical Elysion Pro"
 
 
