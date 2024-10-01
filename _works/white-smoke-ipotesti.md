@@ -1,7 +1,7 @@
 ---
 # preview details
 layout: works-single
-title: Eden Plant, Suceava
+title: White Smoke
 category: Produse
 category_slug: produse
 location: Suceava
