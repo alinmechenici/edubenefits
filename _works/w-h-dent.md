@@ -7,7 +7,7 @@ category_slug: sanatate
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/w-d-dent.jpg
-short_description: "<p>- consultatie si plan de tratament complet, 5% reducere pentru oricare din serviciile.</p>"
+short_description: "<p>- consultatie si plan de tratament complet, 5% reducere pentru oricare din servicii.</p>"
 
 # full details
 live_preview: {website}
