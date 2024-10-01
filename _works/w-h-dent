@@ -7,9 +7,9 @@ category_slug: sanatate
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/w-d-dent.jpg
-short_description: "- 1 x consultatie+plan de tratament complet + igienizare/an. 
+short_description: "<p>- 1 x consultatie+plan de tratament complet + igienizare/an. 
 - 5% reducere pentru oricare din serviciile oferite de clinica noastra la ambele puncte de lucru W&H DENT Craiova , Branesti.
-- Posesorii de carduri beneficiaza de investigatie radiologica gratuita la punctul de lucru W&H DENT Branesti."
+- Posesorii de carduri beneficiaza de investigatie radiologica gratuita la punctul de lucru W&H DENT Branesti.</p>"
 
 # full details
 live_preview: {website}
@@ -25,7 +25,9 @@ info:
 
 description1:
   show: yes
-  title: "- 1 x consultatie+plan de tratament complet + igienizare/an. <br> - 5% reducere pentru oricare din serviciile oferite de clinica noastra la ambele puncte de lucru W&H DENT Craiova , Branesti. <br> - Posesorii de carduri beneficiaza de investigatie radiologica gratuita la punctul de lucru W&H DENT Branesti."
+  title: "<p> - 1 x consultatie+plan de tratament complet + igienizare/an. 
+  - 5% reducere pentru oricare din serviciile oferite de clinica noastra la ambele puncte de lucru W&H DENT Craiova , Branesti.
+  - Posesorii de carduri beneficiaza de investigatie radiologica gratuita la punctul de lucru W&H DENT Branesti.</p>"
   text: "<p> </p>"
 ---
 
