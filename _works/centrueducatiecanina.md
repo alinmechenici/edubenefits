@@ -1,7 +1,7 @@
 ---
 # preview details
 layout: works-single
-title: Centrul de Educare Canina
+title: Centrul National de Educare Canina
 category: Animale
 category_slug: animale
 location: Craiova
