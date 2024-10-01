@@ -23,6 +23,6 @@ info:
 
 description1:
   show: yes
-  title:  "10% reducere la toate tratamentele stomatologice <br> 30% reducere la detartrajul dentar/an <br> 30% reducere la tratamentele de albire dentară"
+  title:  "10% reducere"
   text: "<p>.</p>"
 ---
