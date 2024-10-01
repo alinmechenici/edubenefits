@@ -11,8 +11,7 @@ short_description: "- 1 x consultatie+plan de tratament complet + igienizare/an.
 <br> - 5% reducere pentru oricare din serviciile oferite de clinica noastra
 la ambele puncte de lucru W&H DENT Craiova , Branesti.
 <br> - Posesorii de carduri beneficiaza de investigatie radiologica gratuita 
-la punctul de lucru W&H DENT Branesti.
-"
+la punctul de lucru W&H DENT Branesti."
 
 # full details
 live_preview: {website}
@@ -28,7 +27,9 @@ info:
 
 description1:
   show: yes
-  title:  "1 consultatie gratuita <br> 1 igienizare orala gratuita pe an <br> 10-15% reducere la anumite manopere"
-  text: "<p>.</p>"
+  title: "- 1 x consultatie+plan de tratament complet + igienizare/an.
+  <br> - 5% reducere pentru oricare din serviciile oferite de clinica noastra la ambele puncte de lucru W&H DENT Craiova , Branesti.
+  <br> - Posesorii de carduri beneficiaza de investigatie radiologica gratuita la punctul de lucru W&H DENT Branesti."
+  text: "<p> </p>"
 ---
 
