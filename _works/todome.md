@@ -23,7 +23,7 @@ info:
 
 description1:
   show: yes
-  title: Todome: 5% reducere la toate produsele
-  text: Todome: 5% reducere la toate produsele
-
+  title: "Todome: 5% reducere la toate produsele"
+  "<p>.</p>
+  "
 ---
