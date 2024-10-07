@@ -6,11 +6,11 @@ category: Educatie
 category_slug: educatie
 location: Craiova
 location_slug: craiova
-image: assets/img/logos/srb.png
-short_description: " Acces gratuit pentru Scoala Parintilor"
+image: assets/img/logos/todome.jpg
+short_description: "5% reducere la toate produsele"
 
 # full details
-live_preview: https://scoalabritanica.ro
+live_preview: https://todome.ro
 info:
   - label: Reducere
     value: 100%
@@ -19,15 +19,11 @@ info:
     value: Acces gratuit pentru Scoala Parintilor
 
   - label: Contact
-    value: <a href="https://scoalabritanica.ro" target="_blank">Website</a>
+    value: <a href="https://todome.ro" target="_blank">Website</a>
 
 description1:
   show: yes
-  title: Acces gratuit la cursurile pentru parinti "Scoala Parintilor"
-  text: Acces gratuit la cursurile pentru parinti Scoala Parintilor
-
-video:
-  poster: assets/img/works/SRB-slide8.jpg
-  id: cAyCcAsN1yg 
+  title: ""
+  text: Todome: 5% reducere la toate produsele
 
 ---
