@@ -23,7 +23,7 @@ info:
 
 description1:
   show: yes
-  title: ""
+  title: 
   text: Todome: 5% reducere la toate produsele
 
 ---
