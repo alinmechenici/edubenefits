@@ -6,7 +6,7 @@ category: Educatie
 category_slug: educatie
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/danceconspiracy.png
+image: assets/img/logos/danceconspiracy.jpg
 short_description: "Gratuit – prima sedinta de curs, indiferent de sectiunea dorita. <br>10 % / cursant pentru posesorii de carduri"
 
 # full details
