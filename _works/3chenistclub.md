@@ -21,20 +21,6 @@ info:
 description1:
   show: yes
   title: "Oferim discount de: 10 % pentru abonamentele Chenist.Club, pentru membrii EduBenefits"
-  text: 
-
-gallery:
-  - assets/img/works/chenist-club1.jpeg
-  - assets/img/blog/chenist-club2.jpg
-  - assets/img/blog/chenist-club3.jpg
-
-description2:
-  title: "<p>Profita acum de oferta pentru familii cu copii. Te ajutam sa protejezi caminul si copii de pericolele digitale. Contacteaza-ne pentru detalii.</p>"
-  text: "<p>
-  </p>"
-
-video:
-  poster: assets/img/blog/blog9.jpg
-  id: c10hOnwQFaQ
+  text:
 
 ---
