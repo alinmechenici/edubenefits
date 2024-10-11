@@ -11,12 +11,12 @@ short_description: Oferim reducere 10% pentru abonamentele CHENIST Club.
 
 # full details
 live_preview: https://chenist.club
-full_image: assets/img/works/chenist-club1.jpg
+full_image: assets/img/works/chenist-club1.png
 info:
   - label: Reducere
     value: 10%
   - label: Contact
-    value: <a href="https://chenist.club" target="_blank">chenist.club</a>
+    value: <a href="https://chenist.club" target="_blank">www.chenist.club</a>
 
 description1:
   show: yes
