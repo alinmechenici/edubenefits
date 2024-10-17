@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: KMD POWER GYM
-category_slug: Sport
-category_slug: sport
+category: Timp liber
+category_slug: timp-liber
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/kmdpowergym.png
