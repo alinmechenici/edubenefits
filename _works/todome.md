@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: TODOME
-category: Educatie
-category_slug: educatie
+category: Constructii / amenajari
+category_slug: constructii-amenajari
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/todome.jpg
@@ -16,7 +16,7 @@ info:
     value: 100%
   
   - label: Gratuit
-    value: Acces gratuit pentru Scoala Parintilor
+    value: "5% reducere la toate produsele"
 
   - label: Contact
     value: <a href="https://todome.ro" target="_blank">Website</a>
