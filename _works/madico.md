@@ -4,8 +4,8 @@ layout: works-single
 title: MADICO SQUARE - BIOGUST
 location: National
 location_slug: national
-category: Alte servicii
-category_slug: alte-servicii
+category: Produse
+category_slug: produse
 image: assets/img/logos/biogust.jpg
 short_description: "5% reducere la orice produs achizitionat din magazin sau online"
 
