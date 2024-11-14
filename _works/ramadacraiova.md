@@ -6,7 +6,7 @@ category: Ospitalitate
 category_slug: ospitalitate
 location: Craiova
 location_slug: craiova
-image: assets/img/logos/ramada.png
+image: assets/img/logos/ramada.jpg
 short_description:  "10% discount la toate serviciile (SPA, evenimente și cazare)"
 
 # full details
