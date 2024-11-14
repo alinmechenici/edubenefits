@@ -6,7 +6,7 @@ category: Animale
 category_slug: animale
 location: Craiova
 location_slug: craiova
-image: assets/img/logos/centruldeeducarecanina.png
+image: assets/img/logos/firstland.jpg
 short_description: "20% servicii cazare caini"
 
 # full details
