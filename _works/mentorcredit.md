@@ -12,8 +12,6 @@ short_description: "Costuri zero si prioritate in programarea pentru analiza cre
 # full details
 live_preview: #
 info:
-  - label: Gratuitate
-    value: 100% consultanta
   - label: Contact
     value: 0743650600
   - label: Website
