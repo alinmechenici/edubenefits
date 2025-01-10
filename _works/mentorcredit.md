@@ -13,7 +13,7 @@ short_description: "Costuri zero si prioritate in programarea pentru analiza cre
 live_preview: #
 info:
   - label: Contact
-    value: 0743650600
+    value: 0743 650 600
   - label: Website
     value: <a href="https://www.creditmentor.ro" target="_blank">www.creditmentor.ro</a>
   - label: Adresa
