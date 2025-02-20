@@ -7,7 +7,7 @@ category_slug: sanatate
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/steiner.png
-short_description: 10% reducere la toate tratamentele
+short_description: 10% reducere la toate tratamentele si 5% din pret este redirectionat catre Scoala Romano-Britanica
 
 
 # full details
