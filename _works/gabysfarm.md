@@ -1,0 +1,31 @@
+---
+# preview details
+layout: works-single
+title: Gaby's Farm
+category: Sanatate
+category_slug: sanatate
+location: Craiova
+location_slug: oltenia
+image: assets/img/logos/gabyfarm.jpg
+short_description: "- discount 2%-10% <br>
+    - consulatanta gratuita telefonic si in locatii
+    - livrare la domiciliu in caz de urgente
+"
+
+# full details
+info:
+  - label: Reducere
+    value: 2-10% 
+  - label: Contact
+    value: 0351179036 / 0766380108
+
+description1:
+  show: yes
+  title: "- discount 2%-10% <br>
+    - consulatanta gratuita telefonic si in locatii
+    - livrare la domiciliu in caz de urgente
+"
+  text: "<p>Rețetele prescrise de medicii din servciiile de telemedicină TELIOS pot fi trimise direct din aplicație către farmacia Gaby’s Farm pentru a fi pregătite în vederea ridicării lor, sau livrării.</p>
+  "
+---
+ 
