@@ -10,14 +10,14 @@ image: assets/img/logos/eclar.png
 short_description: "5% reducere pentru achizitionarea de detergent"
 
 # full details
-live_preview: www.familiaeclar.ro
+live_preview: https://www.familiaeclar.ro
 info:
   - label: Telefon
     value: 0771485906
 
 
   - label: Contact
-    value: <a href="www.familiaeclar.ro" target="_blank">Website</a>
+    value: <a href="https://www.familiaeclar.ro" target="_blank">Website</a>
 
 
 description1:
