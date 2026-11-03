@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: STEINER CENTRU DENTAR
+description: "STEINER CENTRU DENTAR: 10% reducere la toate tratamentele si 5% din pret este redirectionat catre Scoala Romano-Britanica"
 category: Sanatate
 category_slug: sanatate
 location: Oltenia

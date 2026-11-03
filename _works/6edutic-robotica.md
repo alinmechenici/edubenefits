@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Edutic Robotica
+description: "Edutic Robotica: 10% taxă lunară pentru programele educaționale"
 category: Educatie
 category_slug: educatie
 location: Craiova

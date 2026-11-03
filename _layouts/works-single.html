@@ -135,7 +135,7 @@ layout: default
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
 								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+									<img decoding="async" src="{{ image | relative_url }}" alt="{{ page.title | strip_html | escape }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -220,3 +220,35 @@ layout: default
 	</div>
 </div>
 {% endif %}
+
+<script>
+/* Make plain phone numbers tap-to-call and addresses open in Maps. */
+(function () {
+	var labels = document.querySelectorAll('.m-details .details-label');
+	Array.prototype.forEach.call(labels, function (row) {
+		var labelEl = row.querySelector(':scope > span');
+		var valueEl = row.querySelector('strong > span');
+		if (!labelEl || !valueEl || valueEl.querySelector('a')) return;
+		var label = labelEl.textContent.toLowerCase();
+		var text = valueEl.textContent.trim();
+		if (/adres/.test(label) && text.length > 5) {
+			var a = document.createElement('a');
+			a.href = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(text);
+			a.target = '_blank';
+			a.rel = 'noopener';
+			a.textContent = text;
+			valueEl.textContent = '';
+			valueEl.appendChild(a);
+			return;
+		}
+		var phoneRe = /\+?\d[\d\s.\-]{7,}\d/g;
+		if (!phoneRe.test(text)) return;
+		valueEl.innerHTML = valueEl.innerHTML.replace(/\+?\d[\d\s.\-]{7,}\d/g, function (match) {
+			var digits = match.replace(/[^\d+]/g, '');
+			var count = digits.replace('+', '').length;
+			if (count < 9 || count > 12) return match;
+			return '<a href="tel:' + digits + '">' + match + '</a>';
+		});
+	});
+})();
+</script>

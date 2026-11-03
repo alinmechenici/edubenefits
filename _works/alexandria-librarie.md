@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Alexandria Librarii, Radauti
+description: "Alexandria Librarii, Radauti: 10% discount pentru toate produsele vândute în librarii"
 category: Educatie
 category_slug: educatie
 location: Radauti

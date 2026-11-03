@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: CAKE STORE
+description: "CAKE STORE: 10% reducere la orice achiziție"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Oltenia

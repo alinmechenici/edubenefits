@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: CLUBUL SPORTIV MEIYO
+description: "CLUBUL SPORTIV MEIYO: 5 lectii gratuite de auto-aparare - 10% discount la abonament lunar"
 category: Educatie
 category_slug: educatie
 location: Craiova

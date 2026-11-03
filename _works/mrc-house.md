@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: MRC HOUSE
+description: "MRC HOUSE: 10% reducere la produsele listate în meniu"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Oltenia

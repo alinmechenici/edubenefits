@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: DANCE CONSPIRACY
+description: "DANCE CONSPIRACY: Gratuit – prima sedinta de curs, indiferent de sectiunea dorita. 10 % / cursant pentru posesorii de carduri"
 category: Educatie
 category_slug: educatie
 location: Oltenia

@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: EURODINAMIC SRL
+description: "EURODINAMIC SRL: 5% reducere în orice magazin Eurodinamic-Stihl, la cumpărăturile în magazinele fizice din Craiova, Slatina, Filiasi, Caracal\""
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Craiova

@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: 4 Moving
+description: "4 Moving: 4 intrari pe luna la sala incluse in abonamentul EduBenefits"
 category: Timp liber
 category_slug: timp-liber
 location: Craiova

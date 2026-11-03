@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Union Business Travel
+description: "Union Business Travel: 25% discount pentru cursele rezervate"
 category: Transport
 category_slug: transport
 location: Craiova

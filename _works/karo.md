@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: KARO DECOR TEXTIL
+description: "KARO DECOR TEXTIL: 5-10% reducere la orice comanda de perdele si draperii"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Oltenia

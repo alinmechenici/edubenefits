@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: DR. PREDESCU BARBU CRISTINA – SERVICII STOMATOLOGICE
+description: "DR. PREDESCU BARBU CRISTINA – SERVICII STOMATOLOGICE: 10% reducere la toate tratamentele stomatologice 30% reducere la detartrajul dentar/an 30%…"
 category: Sanatate
 category_slug: sanatate
 location: Oltenia

@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Kuhl Kiddo
+description: "Kuhl Kiddo: 2 intrări gratuite pe luna la locul de joacă - 2 accese gratuite la locul de joacă pentru petrecerile organizate în cadrul Kuhl Kiddo"
 category: Timp liber
 category_slug: timp-liber
 location: Craiova

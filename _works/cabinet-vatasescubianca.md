@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: VĂTĂȘESCU BIANCA NICOLETA - CABINET INDIVIDUAL DE PSIHOLOGIE
+description: "VĂTĂȘESCU BIANCA NICOLETA - CABINET INDIVIDUAL DE PSIHOLOGIE: 10% psihoterapie individuala"
 category: Sanatate
 category_slug: sanatate
 location: Craiova

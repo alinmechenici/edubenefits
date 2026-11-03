@@ -37,5 +37,8 @@ ui_text:
   works_subtitle:       "<b>Oferte</b>"
   works_bg_title:       "Beneficii"
   all:                  "Tot"
+  search_partner:       "Caută partener sau ofertă…"
+  no_results:           "Niciun partener nu corespunde căutării."
+  phone:                "Telefon"
   read_more:            "Citeste mai mult"
   live_preview:         "Website"

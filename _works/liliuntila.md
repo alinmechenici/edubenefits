@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Lili Untila - Personal Trainer
+description: "Lili Untila - Personal Trainer: Sedinte cu durata de 60 de minute, 8 sedinte/luna la pretul de 700 RON. Prima sedinta gratuit. Educatie nutritionala…"
 category: Sanatate
 category_slug: sanatate
 location: Craiova

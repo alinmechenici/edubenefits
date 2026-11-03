@@ -3,6 +3,7 @@
 layout: works-single
 published: false # archived
 title: CHENIST.Digital
+description: "CHENIST.Digital: Reducere 10% pentru abonamentele CHENIST Digital"
 category: Educatie
 category_slug: educatie
 location: National

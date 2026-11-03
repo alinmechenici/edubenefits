@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: ESTETIQ BY CRISTINA VLAD - CENTRU DE BRONZARE
+description: "ESTETIQ BY CRISTINA VLAD - CENTRU DE BRONZARE: 10% fata de pretul de lista la abonamente solar"
 category: Infrumusetare
 category_slug: infrumusetare
 location: Oltenia

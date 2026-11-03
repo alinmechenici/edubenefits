@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: CABINET MEDICAL INDIVIDUAL DR. ALECU GIORGIANA – ASISTENȚĂ MEDICALĂ
+description: "CABINET MEDICAL INDIVIDUAL DR. ALECU GIORGIANA – ASISTENȚĂ MEDICALĂ: 10% reducere pentru consultatii la domiciliu Consultatii medicale adulti si copii…"
 category: Sanatate
 category_slug: sanatate
 location: Oltenia

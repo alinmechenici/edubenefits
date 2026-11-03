@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title:  FLANDERS
+description: "FLANDERS: 10% reducere"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: National

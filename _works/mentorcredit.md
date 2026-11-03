@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Mentor Credit Group
+description: "Mentor Credit Group: Costuri zero si prioritate in programarea pentru analiza creditului pentru credite imobiliare"
 category: Alte servicii
 category_slug: alte-servicii
 location: Craiova

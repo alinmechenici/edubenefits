@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: LOU LOU MACARONS
+description: "LOU LOU MACARONS: 10% candy bar si torturi"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Craiova

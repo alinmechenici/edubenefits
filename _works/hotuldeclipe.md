@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Hotul de clipe
+description: "Hotul de clipe: 10% reducere pentru pachetele de servicii foto evenimente - 10% reducere pentru sedintele foto de familie"
 category: Alte servicii
 category_slug: alte-servicii
 location: Craiova

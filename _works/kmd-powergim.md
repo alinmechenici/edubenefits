@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: KMD POWER GYM
+description: "KMD POWER GYM: 25% reducere"
 category: Timp liber
 category_slug: timp-liber
 location: Oltenia

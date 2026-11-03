@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Logiscool Craiova
+description: "Logiscool Craiova: 10% discout la taxa lunară pentru programele educationale (se poate cumula cu alte discount-uri deja existente, in limita maxima de 15%"
 category: Educatie
 category_slug: educatie
 location: Craiova

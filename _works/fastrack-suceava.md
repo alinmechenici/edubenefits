@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: FasTracKids Suceava
+description: "FasTracKids Suceava: 10% taxă lunară pentru toate modulele FTK - 1 lecție gratuită - 30% reducere la Evaluarea Poetentialului de Învățare FasTracKids"
 category: Educatie
 category_slug: educatie
 location: Suceava

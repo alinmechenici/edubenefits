@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Scoala Romano-Britanica Suceava
+description: "Scoala Romano-Britanica Suceava: Acces gratuit pentru Scoala Parintilor"
 category: Educatie
 category_slug: educatie
 location: Suceava

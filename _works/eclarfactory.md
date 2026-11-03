@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Eclar Factory
+description: "Eclar Factory: 5% reducere pentru achizitionarea de detergent"
 category: Produse
 category_slug: produse
 location: Craiova

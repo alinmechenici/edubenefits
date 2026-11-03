@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Rock Climbing Gym
+description: "Rock Climbing Gym: 25% la acces si inchiriere echipamente"
 category: Sport
 category_slug: sport
 location: Craiova

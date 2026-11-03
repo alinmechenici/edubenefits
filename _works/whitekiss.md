@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: White Kiss
+description: "White Kiss: 1 consultatie stomatologica gratuita / an ( include plan de tratament personalizat) - 1 consultatie implantologie/ chirurgie maxilo-faciala…"
 category: Sanatate
 category_slug: sanatate
 location: Craiova

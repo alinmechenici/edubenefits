@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Tropical Tour
+description: "Tropical Tour: 2% discount la pachetele charter avion cu plecare din Romania 2% discount la cazare (minim 5 nopti) 10% discount la asigurarea de calatorie"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Craiova

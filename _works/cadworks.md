@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Cad Works
+description: "Cad Works: Reducere de 5% la produsele 3D CONNEXION, discounturi de pana la 25% la cursurile de instruire de pe platforma de training online Academia…"
 category: Servicii
 category_slug: servicii
 location: Oltenia

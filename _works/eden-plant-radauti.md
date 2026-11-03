@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Eden Plant, Suceava
+description: "Eden Plant, Suceava: 10% discount la toate produsele vândute în magazine"
 category: Produse
 category_slug: produse
 location: Suceava

@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Law Distribution
+description: "Law Distribution: 5% pentru folie stretch, benzi adezive, folii cu bule, folii parchet, colțare carton, polietilena, PVC, poliolefina, benzi de legat…"
 category: Produse
 category_slug: produse
 location: Craiova

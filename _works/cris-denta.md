@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Cris Denta
+description: "Cris Denta: 10% reducere la toate tratamentele stomatologice 30% reducere la detartrajul dentar/an 30% reducere la tratamentele de albire dentară"
 category: Sanatate
 category_slug: sanatate
 location: Oltenia

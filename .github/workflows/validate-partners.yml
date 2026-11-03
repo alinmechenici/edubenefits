@@ -1,0 +1,30 @@
+name: Validate partners
+
+on:
+  pull_request:
+    paths:
+      - "_works/**"
+      - "_data/settings.yml"
+      - "assets/img/logos/**"
+      - ".github/scripts/validate_partners.py"
+  push:
+    branches: [gh-pages]
+    paths:
+      - "_works/**"
+      - "_data/settings.yml"
+      - "assets/img/logos/**"
+      - ".github/scripts/validate_partners.py"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml==6.0.2
+      - run: python3 .github/scripts/validate_partners.py --verbose

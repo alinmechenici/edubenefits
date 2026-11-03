@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: MABO UTILAJE
+description: "MABO UTILAJE: 5% reducere la utilaje de constructii si atasamente"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Oltenia

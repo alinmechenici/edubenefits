@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: MED TEHNICA
+description: "MED TEHNICA: 10% discount la produse de tip tehnică medicală"
 category: Produse
 category_slug: produse
 location: National

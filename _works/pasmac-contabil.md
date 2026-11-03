@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Cabinet Expert Contabil Pasmac Catalin
+description: "Cabinet Expert Contabil Pasmac Catalin: 10% reducere de la tariful standard pentru evidențe sau expertize contabile și consultanță financiară"
 category: Servicii consultanta
 category_slug: servicii
 location: Craiova

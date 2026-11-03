@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: SC RELIEF PROIECT SRL
+description: "SC RELIEF PROIECT SRL: Consultanță tehnică inițială gratuită. 10% reducere la proiectul de arhitectură pentru construcții cu diverse funcțiuni"
 category: Constructii / amenajari
 category_slug:  constructii-amenajari
 location: Oltenia

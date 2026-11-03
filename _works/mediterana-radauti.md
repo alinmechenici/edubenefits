@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Mediterana, Radauti
+description: "Mediterana, Radauti: Restaurant fast-food: 10% discount la toate produsele restaurantului"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Radauti

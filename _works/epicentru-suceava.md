@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Epicentru Steak Pub, Suceava
+description: "Epicentru Steak Pub, Suceava: Restaurant,de la mâncare tradițională românească, la paste, steak-uri, sushi ori mâncare arăbească. 10% discount pentru…"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Suceava

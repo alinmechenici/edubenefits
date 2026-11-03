@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: DETAILING AUTO NEW CAR
+description: "DETAILING AUTO NEW CAR: 10% reducere Detailing Interior. Examinare auto gratuit"
 location: Oltenia
 location_slug:  craiova
 category: Alte servicii

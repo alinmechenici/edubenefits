@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: SUPERMARKETUL ANIMALELOR BY DOCTOR Z 
+description: "SUPERMARKETUL ANIMALELOR BY DOCTOR Z: consultatie gratuita pe an 30% discount la intervențiile chirurgicale"
 category: Animale
 category_slug: animale
 location: National

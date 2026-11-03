@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: PUBLIC SPEAKING FOR KIDS
+description: "PUBLIC SPEAKING FOR KIDS: 25% reducere la cursul de public Speaking pentru copii in varianta fizica si in varianta online"
 category: Educatie
 category_slug: educatie
 location: Oltenia

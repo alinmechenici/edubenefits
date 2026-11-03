@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Centrul National de Educare Canina
+description: "Centrul National de Educare Canina: Gratuit - evaluare - 10% reducere"
 category: Animale
 category_slug: animale
 location: Craiova

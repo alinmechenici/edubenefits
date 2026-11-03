@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: ASTORIA SALON - SALON DE ÎNFRUMUSEȚARE
+description: "ASTORIA SALON - SALON DE ÎNFRUMUSEȚARE: 10% reducere fata de pretul de lista la pachetele de remodelare corporala"
 category: Infrumusetare
 category_slug:  infrumusetare
 location: Oltenia

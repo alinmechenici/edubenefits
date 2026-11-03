@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Crucea Rosie - Filiala Craiova
+description: "Crucea Rosie - Filiala Craiova: 10% la cursurile de prim ajutor"
 category: Educatie
 category_slug: educatie
 location: Craiova

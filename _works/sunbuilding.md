@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Sun Building
+description: "Sun Building: Reducere de 2.000 EUR si 1% pentru orice lucrare de manopera. ÎN PLUS o reducere de 1.000 EUR și 1% pentru orice lucrare de manopera…"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Oltenia

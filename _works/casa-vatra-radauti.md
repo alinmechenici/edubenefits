@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Casa Vatră, Radauti
+description: "Casa Vatră, Radauti: 10% discount pentru toate serviciile oferite de restaurant si hotel"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Radauti

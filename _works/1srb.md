@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Scoala Romano-Britanica
+description: "Scoala Romano-Britanica: Acces gratuit pentru Scoala Parintilor"
 category: Educatie
 category_slug: educatie
 location: Craiova

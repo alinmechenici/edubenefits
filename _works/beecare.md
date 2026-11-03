@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: BEECARE
+description: "BEECARE: 25% reducere pentru toate serviciile"
 category: Sanatate
 category_slug: sanatate
 location: Craiova

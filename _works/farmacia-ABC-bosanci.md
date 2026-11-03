@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Farmacia ABC, Bosanci
+description: "Farmacia ABC, Bosanci: 15% discount la suplimente alimentare si cosmetice"
 category: Sanatate
 category_slug: sanatate
 location: Suceava

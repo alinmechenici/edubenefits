@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: ISOLDE LAVENDER
+description: "ISOLDE LAVENDER: 10% discount la preturile de pe site pentru produse pe baza de lavandă: seturi cadou, mărturii pentru evenimente, produse cosmetice"
 category: Produse
 category_slug: produse
 location: National

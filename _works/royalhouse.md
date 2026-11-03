@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: ROYAL HOUSE OF BEAUTY
+description: "ROYAL HOUSE OF BEAUTY: 20% reducere la abonamentele de remodelare corporala 20% reducere la abonamentele de epilare cu laser 30% reducere la…"
 category: Infrumusetare
 category_slug: infrumusetare
 location: Oltenia

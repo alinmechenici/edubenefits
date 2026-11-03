@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title:  W&H Dent
+description: "W&H Dent: consultatie si plan de tratament complet, 5% reducere pentru oricare din servicii"
 category: Sanatate
 category_slug: sanatate
 location: Oltenia

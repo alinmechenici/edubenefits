@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: CASA MARINA
+description: "CASA MARINA: 10% pentru serviciile de cazare din zilele de weekend"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Oltenia

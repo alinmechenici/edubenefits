@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Cazare Bliss
+description: "Cazare Bliss: 10% reducere la pachetelor de cazare și masă"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Craiova

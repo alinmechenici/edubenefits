@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title:  ETADENT
+description: "ETADENT: 1 consultatie gratuita 1 igienizare orala gratuita pe an 10-15% reducere la anumite manopere"
 category: Sanatate
 category_slug: sanatate
 location: Oltenia

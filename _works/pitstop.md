@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: PIT STOP PREMIUM
+description: "PIT STOP PREMIUM: 15% reducere la toate serviciile"
 category: Alte servicii
 category_slug: alte-servicii
 location: Oltenia

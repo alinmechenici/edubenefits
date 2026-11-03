@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Home Med Care
+description: "Home Med Care: Gratuit: planul de nursing și modul de aplicare a conduitei terapeutice - 10% reducere pentru: administrarea medicamentelor; tratamentul…"
 category: Sanatate
 category_slug: sanatate
 location: Craiova

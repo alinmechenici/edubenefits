@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: SC ALAI WEAR SRL – ATELIER ADINA CONSTANTINESCU
+description: "SC ALAI WEAR SRL – ATELIER ADINA CONSTANTINESCU: 30% reducere la toate produsele marca Atelier Adina Constantinescu (comenzi speciale, rochii de ocazie…"
 category: Produse
 category_slug: produse
 location: Oltenia

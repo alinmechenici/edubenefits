@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: CABINET MEDICAL DR. BUNESCU FLORIN – SERVICII MEDICINA MUNCII
+description: "CABINET MEDICAL DR. BUNESCU FLORIN – SERVICII MEDICINA MUNCII: Servicii personalizate de Medicina Muncii, direct la sediul companiei. Servicii medicale…"
 category: Sanatate
 category_slug: sanatate
 location: Oltenia

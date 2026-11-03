@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title:  BAM - BIROU ARHITECTURA METROPOLITANA
+description: "BAM - BIROU ARHITECTURA METROPOLITANA: 10% reducere la toate serviciile"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Oltenia
