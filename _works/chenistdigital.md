@@ -1,6 +1,7 @@
 ---
 # preview details
 layout: works-single
+published: false # archived
 title: CHENIST.Digital
 category: Educatie
 category_slug: educatie
