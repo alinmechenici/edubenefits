@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: ARD Security
-category: servicii
+category: Servicii
 category_slug: servicii
 location: Craiova
 location_slug: craiova

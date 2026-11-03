@@ -4,9 +4,13 @@
 
 <div class="works-box{% if categories.layout == 'list' %} works-list{% endif %}">
   <div class="filter-links scrolla-element-anim-1 scroll-animate" data-animate="active">
-    <a href="#" class="lui-subtitle active" data-href=".works-col">{{ ui_text.national }}</a>
+    <a href="#" class="lui-subtitle active" data-href=".works-col">{{ ui_text.all }}</a>
+    {% assign loc_works = site.works | where: "location_slug", "national" %}
+    {% assign loc_slugs = loc_works | map: "category_slug" | uniq %}
     {% for category in categories.filters %}
-    <a href="#" class="lui-subtitle" data-href=".sorting-{{ location.slug }}">{{ location.name }}</a>
+    {% if loc_slugs contains category.slug %}
+    <a href="#" class="lui-subtitle" data-href=".sorting-{{ category.slug }}">{{ category.name }}</a>
+    {% endif %}
     {% endfor %}
   </div>
   
@@ -33,7 +37,7 @@
           </div>
           <a href="{{ work.url }}" class="lnk">{{ ui_text.see_project }}</a>
         </div>
-        <div class="bg-img" style="background-image: url(../assets/images/pat-2.png);"></div>
+        <div class="bg-img" style="background-image: url({{ '/assets/images/pat-2.png' | relative_url }});"></div>
       </div>
     </div>
     {% endif %}

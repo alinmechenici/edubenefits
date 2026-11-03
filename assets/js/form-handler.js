@@ -12,7 +12,7 @@ async function handleSubmit(event) {
     }
   }).then(response => {
     if (response.ok) {
-      status.innerHTML = "Thanks for your submission!";
+      status.innerHTML = "Mulțumim! Mesajul a fost trimis.";
       status.style.display = 'block';
       form.reset()
     } else {
@@ -21,14 +21,16 @@ async function handleSubmit(event) {
           status.innerHTML = data["errors"].map(error => error["message"]).join(", ");
           status.style.display = 'block';
         } else {
-          status.innerHTML = "Oops! There was a problem submitting your form";
+          status.innerHTML = "A apărut o problemă la trimiterea formularului. Încearcă din nou.";
           status.style.display = 'block';
         }
       })
     }
   }).catch(error => {
-    status.innerHTML = "Oops! There was a problem submitting your form";
+    status.innerHTML = "A apărut o problemă la trimiterea formularului. Încearcă din nou.";
     status.style.display = 'block';
   });
 }
-form.addEventListener("submit", handleSubmit);
+if (form) {
+  form.addEventListener("submit", handleSubmit);
+}

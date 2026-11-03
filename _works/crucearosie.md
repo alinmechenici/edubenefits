@@ -3,7 +3,7 @@
 layout: works-single
 title: Crucea Rosie - Filiala Craiova
 category: Educatie
-category_slug: photography
+category_slug: educatie
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/crucearosie.png

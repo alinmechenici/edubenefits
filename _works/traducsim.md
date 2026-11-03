@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: Traducsim - Traduceri
-category: Alte-servicii
+category: Alte servicii
 category_slug: alte-servicii
 location: Craiova
 location_slug: craiova

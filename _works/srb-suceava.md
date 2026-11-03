@@ -24,7 +24,7 @@ info:
 description1:
   show: yes
   title: Acces gratuit la cursurile pentru parintii "Scoala Parintilor"
-  text: Acces gratuit la cursurile pentru parintii Scoala Parintilor
+  text1: "Acces gratuit la cursurile pentru parintii Scoala Parintilor"
 
 video:
   poster: assets/img/works/SRB-slide8.jpg

@@ -55,7 +55,7 @@
                 </div>
                 <a href="{{ work.url }}" class="lnk">{{ ui_text.see_project }}</a>
               </div>
-              <div class="bg-img" style="background-image: url(assets/images/pat-2.png);"></div>
+              <div class="bg-img" style="background-image: url({{ '/assets/images/pat-2.png' | relative_url }});"></div>
             </div>
           </div>
           {% endfor %}

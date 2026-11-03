@@ -23,21 +23,22 @@ Version: 1.0
 	- Popups
 */
 
-/* Partner logo on work detail pages: mobile only */
+/* Partner logo on work detail pages */
 .m-partner-logo {
-	display: none;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+.m-partner-logo img {
+	display: block;
+	max-width: 260px;
+	max-height: 260px;
+	width: auto;
+	height: auto;
+	border-radius: 8px;
 }
 @media screen and (max-width: 767px) {
-	.m-partner-logo {
-		display: block;
-		margin-top: 30px;
-	}
 	.m-partner-logo img {
-		display: block;
 		max-width: 220px;
 		max-height: 220px;
-		width: auto;
-		height: auto;
-		border-radius: 8px;
 	}
 }
