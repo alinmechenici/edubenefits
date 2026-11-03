@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: D&D Biliard
+description: "D&D Biliard: 10% reducere"
 category: Timp liber
 category_slug: timp-liber
 location: Craiova

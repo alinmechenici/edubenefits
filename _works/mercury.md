@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: MERCURY BUSINESS CLASS
+description: "MERCURY BUSINESS CLASS: 20% reducere. Transfer in Business Class. Răsfățați-vă și relaxați-vă în timp ce un șofer profesionist vă va duce la întâlnirea…"
 category: Transport
 category_slug: transport
 location: Oltenia

@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: E-Camere.ro
+description: "E-Camere.ro: Reducere de până la 15%"
 category: Produse
 category_slug: produse
 location: National

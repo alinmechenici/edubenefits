@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: FIRST LAND - pensiune canina
+description: "FIRST LAND - pensiune canina: 20% servicii cazare caini"
 category: Animale
 category_slug: animale
 location: Craiova

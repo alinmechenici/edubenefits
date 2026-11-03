@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Spark Generation
+description: "Spark Generation: 10% reducere la programele de studiu bazate pe Curriculumul International Cambridge, un curs de wellbeing sau leadership la alegere…"
 category: Educatie
 category_slug: educatie
 location: National

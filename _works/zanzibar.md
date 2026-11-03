@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: ZANZIBAR
+description: "ZANZIBAR: 10% pentru următoarele servicii: - Organizare de evenimente - Acces la locul de joacă - Acces piscină - Cursuri de înot"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Craiova

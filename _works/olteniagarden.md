@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Oltenia Garden
+description: "Oltenia Garden: 10% plante si servicii de peisagistica"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Craiova

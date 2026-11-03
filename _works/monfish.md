@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Mon FISH - Balta de pescuit
+description: "Mon FISH - Balta de pescuit: 10% reducere pentru un interval de 12 ore de pescuit"
 category: Timp liber
 category_slug: timp-liber
 location: Craiova

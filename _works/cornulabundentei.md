@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Librariile Cornul Abundentei
+description: "Librariile Cornul Abundentei: 10% reducere la toate achizitiile"
 category: Produse
 category_slug: produse
 location: Craiova

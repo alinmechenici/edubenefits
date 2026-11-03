@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: MBA Junior
+description: "MBA Junior: 10% taxă lunară pentru programele educaționale"
 category: Educatie
 category_slug: educatie
 location: Craiova 

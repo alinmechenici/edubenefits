@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: DR. HORIA OCTAVIAN  MANOLEA SERVICII STOMATOLOGICE
+description: "DR. HORIA OCTAVIAN MANOLEA SERVICII STOMATOLOGICE: 10% reducere pentru tratamente. Consultație gratuită"
 category: Sanatate
 category_slug: sanatate
 location: Oltenia

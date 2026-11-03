@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: TERMOINTENSIVE CONSTRUCT
+description: "TERMOINTENSIVE CONSTRUCT: 10% reducere la lucrările de construcție"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Oltenia

@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Aldo Caffe, Galanesti
+description: "Aldo Caffe, Galanesti: 5% discount la toate produsele achiziționate din magazin"
 category: Produse
 category_slug: produse
 location: Suceava

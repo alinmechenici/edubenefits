@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Winederful, Suceava
+description: "Winederful, Suceava: Wine, bubbles and spirits shop - the perfect gift shop: 10% discount la toate produsele achiziționate din magazin"
 category: Produse
 category_slug: produse
 location: Suceava

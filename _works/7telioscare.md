@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Telios Care
+description: "Telios Care: Access nelimitat, 24/7 la asistenta medicala certificata, indiferent de zi sau ora"
 category: Sanatate
 category_slug: sanatate
 location: National

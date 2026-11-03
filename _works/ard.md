@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: ARD Security
+description: "ARD Security: 10% pentru toate serviciile"
 category: Servicii
 category_slug: servicii
 location: Craiova

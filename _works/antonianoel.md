@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Antonia Noel
+description: "Antonia Noel: Reducere de 15% pentru cursurile online oferite părinților de către autoarea metodei de Comunicare Relatională"
 category: Educatie
 category_slug: educatie
 location: National

@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: ZOISS
+description: "ZOISS: 5% reducere - valoarea reducerii aplicate este de 5% din valoarea fara TVA a achizitiilor. Nu se cumuleaza cu alte oferte/reduceri sau alte…"
 location: National
 location_slug: national
 category: Constructii / amenajari

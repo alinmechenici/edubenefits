@@ -31,7 +31,7 @@
 # basic settings
 title: "EduBenefits"
 email: "cardbenefits@arti.ro"
-description: "Card Benefits"
+description: "EduBenefits: reduceri și beneficii la partenerii comunității Școlii Romano-Britanice din Craiova, Oltenia, Suceava și din toată țara."
 author: "Admin"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://edubenefits.scoalabritanica.ro" # the base hostname & protocol for your site, e.g. http://example.com

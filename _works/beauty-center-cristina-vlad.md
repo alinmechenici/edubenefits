@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: BEAUTY CENTER BY CRISTINA VLAD
+description: "BEAUTY CENTER BY CRISTINA VLAD: 10% reducere fata de pretul de lista la pachetele de epilare definitiva laser medical Elysion Pro"
 category: Infrumusetare
 category_slug: infrumusetare
 location: Oltenia

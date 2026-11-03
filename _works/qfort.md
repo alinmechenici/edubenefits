@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Qfort
+description: "Qfort: 33% reducere pentru orice produs din pretul de lista pentru părinții Școlii Româno-Britanice fiind valabilă pentru toate tipurile de abonamente,…"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Craiova

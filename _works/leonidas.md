@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title:  LEONIDAS
+description: "LEONIDAS: 10% discount la toate produsele"
 category: Produse
 category_slug: produse
 location: National

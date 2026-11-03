@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: CHENIST.Academy 
+description: "CHENIST.Academy: Oferim reducere 10% pentru cursurile CHENIST Academy"
 category: Educatie
 category_slug: educatie
 location: National

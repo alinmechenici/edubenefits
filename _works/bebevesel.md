@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: BebeVesel.ro
+description: "BebeVesel.ro: 10% acces la conferintele de parenting"
 category: Educatie
 category_slug: educatie
 location: Craiova

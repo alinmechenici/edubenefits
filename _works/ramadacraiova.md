@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: RAMADA PLAZA CRAIOVA
+description: "RAMADA PLAZA CRAIOVA: 10% discount la toate serviciile (SPA, evenimente și cazare)"
 category: Ospitalitate
 category_slug: ospitalitate
 location: Craiova

@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: GRADINITA BRIT ACADEMY KIDS
+description: "GRADINITA BRIT ACADEMY KIDS: 10% reducere la taxa lunara pentru programele educationale"
 category: Educatie
 category_slug: educatie
 location: Craiova

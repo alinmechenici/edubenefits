@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: 8Club
+description: "8Club: 10% reducere"
 category: Timp liber
 category_slug: timp-liber
 location: Craiova

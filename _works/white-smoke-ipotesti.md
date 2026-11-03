@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: White Smoke
+description: "White Smoke: Sare fum si timp. Produse din carne afumate pe loc: 5% discount la toate produsele achiziționate din magazin"
 category: Produse
 category_slug: produse
 location: Suceava

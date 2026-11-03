@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: New Way Management Consultanta Proiecte
+description: "New Way Management Consultanta Proiecte: consultanță gratuită pentru identificarea unei oportunități de finanțare -scrierea unei cereri de finanțare…"
 category: Servicii
 category_slug: servicii
 location: Craiova

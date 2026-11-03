@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Băcănia Specialități Sibiene, magazin Piața Centrală, Suceava
+description: "Băcănia Specialități Sibiene, magazin Piața Centrală, Suceava: 20% discount la toate produsele vândute în mezinul din Piața Centrală"
 category: Produse
 category_slug: produse
 location: Suceava

@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Policolor Exim
+description: "Policolor Exim: 10% reducere pentru: vopsea lavabila interior/exterior, amorse, diluanti, emailuri, lacuri, accesorii vopsitorie…"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Oltenia

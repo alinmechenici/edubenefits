@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: MADICO SQUARE - BIOGUST
+description: "MADICO SQUARE - BIOGUST: 5% reducere la orice produs achizitionat din magazin sau online"
 location: National
 location_slug: national
 category: Produse

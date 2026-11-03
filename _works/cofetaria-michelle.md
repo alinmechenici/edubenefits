@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Cofetaria Michelle, Radauti
+description: "Cofetaria Michelle, Radauti: 10% discount pentru toate produsele oferite de cofetărie"
 category: Produse
 category_slug: produse
 location: Radauti

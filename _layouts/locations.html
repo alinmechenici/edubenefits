@@ -138,7 +138,7 @@ layout: default
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
 								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+									<img decoding="async" src="{{ image | relative_url }}" alt="{{ page.title | strip_html | escape }}" loading="lazy">
 								</a>
 							</div>
 						</div>

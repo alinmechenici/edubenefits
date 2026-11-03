@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Happy Cars
+description: "Happy Cars: 10% reducere"
 category: Alte servicii
 category_slug: alte-servicii
 location: Craiova

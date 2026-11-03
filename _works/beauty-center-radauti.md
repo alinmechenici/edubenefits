@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Beauty Center Vogue, Radauti
+description: "Beauty Center Vogue, Radauti: 10% discount pentru toate serviciile oferite de salon"
 category: Infrumusetare
 category_slug: infrumusetare
 location: Suceava

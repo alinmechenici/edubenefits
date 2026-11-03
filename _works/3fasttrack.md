@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: FasTracKids România (19 academii)
+description: "FasTracKids România (19 academii): 10% taxă lunară pentru toate modulele FTK - 1 lecție gratuită - 1 Evaluare a Potențialului de Învățare în valoare de…"
 category: Educatie
 category_slug: educatie
 location: National

@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Centru de Psihoterapie Irina Gruia
+description: "Centru de Psihoterapie Irina Gruia: 10% reducere"
 category: Sanatate
 category_slug: sanatate
 location: Oltenia

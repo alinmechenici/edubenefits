@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Stefniclean - Curatenie
+description: "Stefniclean - Curatenie: 10% pentru toate serviciile"
 category: Servicii
 category_slug: servicii
 location: Craiova

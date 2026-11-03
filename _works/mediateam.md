@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Media Team
+description: "Media Team: 10% reducere pentru lucrari de excavare - cu buldoexcavator si miniexcavator"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Craiova

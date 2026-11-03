@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Indiscret Media
+description: "Indiscret Media: 30% reducere pt anunturi mass media"
 category: Servicii
 category_slug: servicii
 location: Craiova

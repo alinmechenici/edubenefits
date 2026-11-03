@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Kids Taxi
+description: "Kids Taxi: 20% servicii de transport persoane microbuze si autocare, organizate si regulate - 20% pentru abonamentul de transport elevi SRB"
 category: Transport
 category_slug: transport
 location: Craiova

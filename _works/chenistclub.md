@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: CHENIST.Club
+description: "CHENIST.Club: Oferim reducere 10% pentru abonamentele CHENIST Club"
 category: Educatie
 category_slug: educatie
 location: National

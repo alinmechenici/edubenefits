@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Cabinet Avocat Rusu Oana, Radauti
+description: "Cabinet Avocat Rusu Oana, Radauti: 10% discount pentru toate serviciile oferite de cabinet: -drept civil -dreptul familiei -drept administrativ -drept…"
 category: Servicii
 category_slug: servicii
 location: Radauti

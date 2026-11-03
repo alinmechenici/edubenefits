@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: GEAR WHEEL
+description: "GEAR WHEEL: 5% reducere la utilaje agricole si tractoare"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Oltenia

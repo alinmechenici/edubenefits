@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Gaby's Farm
+description: "Gaby's Farm: discount 2%-10% - consulatanta gratuita telefonic si in locatii - livrare la domiciliu in caz de urgente"
 category: Sanatate
 category_slug: sanatate
 location: Craiova

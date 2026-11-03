@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: CENTRU EDUCAȚIONAL STEAM
+description: "CENTRU EDUCAȚIONAL STEAM: 10% taxa lunara la toate programele Young Engineers"
 category: Educatie
 category_slug: educatie
 location: Craiova

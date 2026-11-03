@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: SC YVONNEX PSY SRL
+description: "SC YVONNEX PSY SRL: 30% reducere consiliere și dezoltare personală individuală, de cuplu sau de grup"
 category: Sanatate
 category_slug: sanatate
 location: National

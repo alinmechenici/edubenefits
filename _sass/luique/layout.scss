@@ -42,3 +42,62 @@ Version: 1.0
 		max-height: 220px;
 	}
 }
+
+/* Partner list: search box, discount badge, empty state */
+.works-search {
+	max-width: 520px;
+	margin: 0 auto 30px;
+	padding: 0 15px;
+}
+.works-search-input {
+	width: 100%;
+	padding: 14px 20px;
+	font-size: 16px;
+	border: 1px solid rgba(0, 0, 0, 0.15);
+	border-radius: 30px;
+	background: #fff;
+	color: #000;
+	outline: none;
+	-webkit-appearance: none;
+	appearance: none;
+}
+.works-search-input:focus {
+	border-color: #2942a5;
+}
+.works-no-results {
+	text-align: center;
+	margin: 20px 0 40px;
+}
+.works-item .image {
+	position: relative;
+}
+.works-badge {
+	position: absolute;
+	top: 12px;
+	right: 12px;
+	z-index: 3;
+	padding: 6px 12px;
+	border-radius: 20px;
+	background: #2942a5;
+	color: #fff;
+	font-size: 13px;
+	font-weight: 700;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	pointer-events: none;
+}
+body.dark-skin .works-search-input {
+	background: #1a1a1a;
+	color: #fff;
+	border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Partner page: smaller "next partner" title */
+.m-page-navigation .h-titles .h-title {
+	font-size: 48px;
+}
+@media screen and (max-width: 767px) {
+	.m-page-navigation .h-titles .h-title {
+		font-size: 30px;
+	}
+}

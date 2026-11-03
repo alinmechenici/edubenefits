@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: TODOME
+description: "TODOME: 5% reducere la toate produsele"
 category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: Craiova

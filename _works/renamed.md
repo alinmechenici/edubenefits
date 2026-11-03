@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Renamed
+description: "Renamed: 10% reducere analize laborator"
 category: Sanatate
 category_slug: sanatate
 location: Craiova

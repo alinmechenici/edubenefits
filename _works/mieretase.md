@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Miere de la Tase
+description: "Miere de la Tase: 15% reducere pentru achizițiile de miere polifloră și de salcâm -15% pentru pachete corporate (borcanașe de miere personalizate…"
 category: Produse
 category_slug: produse
 location: Craiova

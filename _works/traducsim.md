@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Traducsim - Traduceri
+description: "Traducsim - Traduceri: 15% pentru traducerile autorizate/legalizate Engleza/Romana si Romana/Engleza - 15% reducere pentru intrepretariat in limba Engleza"
 category: Alte servicii
 category_slug: alte-servicii
 location: Craiova

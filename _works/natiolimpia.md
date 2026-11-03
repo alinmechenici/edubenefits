@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: Nati Olimpia
+description: "Nati Olimpia: 10% - servicii de transport marfă, servicii de mutare și relocare"
 category: Transport
 category_slug: transport
 location: Craiova

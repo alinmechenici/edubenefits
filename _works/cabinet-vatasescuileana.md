@@ -2,6 +2,7 @@
 # preview details
 layout: works-single
 title: VĂTĂȘESCU ILEANA - CABINET INDIVIDUAL DE PSIHOLOGIE
+description: "VĂTĂȘESCU ILEANA - CABINET INDIVIDUAL DE PSIHOLOGIE: 1 ședință consiliere psihologică gratuită la un pachet de 10 sedințe psihoterapie copil - 10%…"
 category: Sanatate
 category_slug: sanatate
 location: Craiova
