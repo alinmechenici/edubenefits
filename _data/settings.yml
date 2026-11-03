@@ -26,7 +26,7 @@ social:
 
 ### Footer
 footer:
-  developer: "Dezvoltat de <strong>chenist.digital</strong>"
+  developer: 'Dezvoltat de <a href="https://chenborg.com" target="_blank" rel="noopener"><strong>chenborg.com</strong></a>'
   copyright: "<strong>EduBenefits</strong>. Toate drepturile rezervate."
 
 ### Filters Settings
