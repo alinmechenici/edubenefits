@@ -27,7 +27,7 @@ info:
 description1:
   show: yes
   title: "25% reducere pentru toate serviciile"
-  text: "<p>Echilibru pentru corpul tău!</p>
+  text1: "<p>Echilibru pentru corpul tău!</p>
   <ul>
   <li>Remodelare corporală cu aparatură modernă</li>
   <li>Nutriție și planuri alimentare personalizate</li>
