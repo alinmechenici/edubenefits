@@ -25,6 +25,12 @@ layout: default
 				<span>{{ page.category }}</span>
 			</div>
 		</div>
+		{% if page.image %}
+		<!-- Partner logo: shown on mobile only -->
+		<div class="m-partner-logo">
+			<img src="{{ page.image | relative_url }}" alt="{{ page.title }} logo">
+		</div>
+		{% endif %}
 	</div>
 
 	<!-- Details -->
