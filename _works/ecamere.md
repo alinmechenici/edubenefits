@@ -14,8 +14,8 @@ live_preview: https://www.e-camere.ro
 info:
   - label: Reducere
     value: 15%
-    
-- label: Telefon
+
+  - label: Telefon
     value: 0764 842 423
 
   - label: Contact
