@@ -2,9 +2,10 @@
 # preview details
 layout: works-single
 title: ENA CAD – TOPOGRAFIE ȘI CADASTRU
-category: constructii / amenajari
+category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: National
+location_slug: national
 image: assets/img/logos/edubenefits.png
 short_description: "Consultanță gratuită. Reduceri în funcție de amploarea lucrării"
 

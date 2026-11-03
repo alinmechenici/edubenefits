@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: MRC HOUSE
-category: ospitalitate
+category: Ospitalitate
 category_slug: ospitalitate
 location: Oltenia
 location_slug: craiova

@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title:  FLANDERS
-category: constructii / amenajari
+category: Constructii / amenajari
 category_slug: constructii-amenajari
 location: National
 location_slug: national

@@ -41,7 +41,7 @@
                 </div>
               </div>
               <a href="{{ item.button_link }}" class="lnk">{{ item.button_label }}</a>
-              <div class="image" style="background-image: url(assets/images/pat-2.png);"></div>
+              <div class="image" style="background-image: url({{ '/assets/images/pat-2.png' | relative_url }});"></div>
             </div>
           </div>
           {% endfor %}

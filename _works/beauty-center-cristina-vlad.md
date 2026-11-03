@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: BEAUTY CENTER BY CRISTINA VLAD
-category: infrumusetare
+category: Infrumusetare
 category_slug: infrumusetare
 location: Oltenia
 location_slug: craiova

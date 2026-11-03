@@ -3,7 +3,7 @@
 layout: works-single
 title: CHENIST.Digital
 category: Educatie
-category_slug: servicii
+category_slug: educatie
 location: National
 location_slug: national
 image: assets/img/logos/chenistdigital.png

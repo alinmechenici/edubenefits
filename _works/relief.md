@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: SC RELIEF PROIECT SRL
-category:  constructii
+category: Constructii / amenajari
 category_slug:  constructii-amenajari
 location: Oltenia
 location_slug:  craiova

@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: Lili Untila - Personal Trainer
-category: sanatate
+category: Sanatate
 category_slug: sanatate
 location: Craiova
 location_slug: craiova

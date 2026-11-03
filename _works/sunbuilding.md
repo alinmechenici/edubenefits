@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Sun Building
-category: constructii
-category_slug: constructii
+category: Constructii / amenajari
+category_slug: constructii-amenajari
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/sunbuilding.jpg # bam.png  #  https://drive.google.com/file/d/1qdKhJ2pYJLYu49kZtV0KhgjQbv0mwSec/view?usp=share_link

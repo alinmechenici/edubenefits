@@ -5,7 +5,7 @@ title: Gaby's Farm
 category: Sanatate
 category_slug: sanatate
 location: Craiova
-location_slug: oltenia
+location_slug: craiova
 image: assets/img/logos/gabyfarm.jpg
 short_description: "- discount 2%-10% <br>
     - consulatanta gratuita telefonic si in locatii

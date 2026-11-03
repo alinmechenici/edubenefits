@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: ASTORIA SALON - SALON DE ÎNFRUMUSEȚARE
-category:  infrumusetare
+category: Infrumusetare
 category_slug:  infrumusetare
 location: Oltenia
 location_slug: craiova
