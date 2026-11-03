@@ -25,7 +25,7 @@ description1:
     - consulatanta gratuita telefonic si in locatii
     - livrare la domiciliu in caz de urgente
 "
-  text: "<p>Rețetele prescrise de medicii din servciiile de telemedicină TELIOS pot fi trimise direct din aplicație către farmacia Gaby’s Farm pentru a fi pregătite în vederea ridicării lor, sau livrării.</p>
+  text1: "<p>Rețetele prescrise de medicii din servciiile de telemedicină TELIOS pot fi trimise direct din aplicație către farmacia Gaby’s Farm pentru a fi pregătite în vederea ridicării lor, sau livrării.</p>
   "
 ---
  
