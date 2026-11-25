@@ -5,6 +5,8 @@
 #   weekly (Monday 06:00)   the same build + external links too
 #
 # This only checks; deploys stay where they are (Cloudflare, GitHub Pages, Netlify).
+# /api/* is skipped: those routes are Cloudflare Worker/Function endpoints, not files.
+# --fallback-extensions html: /works/foo is served from works/foo.html, as on the hosts.
 name: Site check
 
 on:
@@ -53,6 +55,8 @@ jobs:
           args: >-
             --offline --no-progress
             --root-dir ${{ github.workspace }}/_site
+            --fallback-extensions html
+            --exclude 'file://.*/_site/api/'
             '_site/**/*.html'
           fail: true
 
@@ -64,5 +68,7 @@ jobs:
             --no-progress --max-retries 3 --timeout 30
             --accept 200..=299,403,429
             --root-dir ${{ github.workspace }}/_site
+            --fallback-extensions html
+            --exclude 'file://.*/_site/api/'
             '_site/**/*.html'
           fail: true
