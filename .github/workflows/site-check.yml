@@ -30,7 +30,10 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          bundler-cache: true # Ruby version from .ruby-version
+          # latest 3.3.x: setup-ruby has no 3.3.10 build for the current ubuntu
+          # runner, and .ruby-version (3.3.10) is what the hosts use
+          ruby-version: "3.3"
+          bundler-cache: true
 
       - name: Build
         run: bundle exec jekyll build --strict_front_matter
