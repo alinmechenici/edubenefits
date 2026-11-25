@@ -14,7 +14,7 @@ layout:
 		<!-- Heading -->
 		<div class="m-titles align-center">
 			<div class="m-category scrolla-element-anim-1 scroll-animate" data-animate="active">
-				<a href="ofera.html">Ofera</a> <a href="beneficii.html"> ...</a>
+				<a href="{{ '/ofera/' | relative_url }}">Ofera</a> <a href="{{ '/beneficii/' | relative_url }}"> ...</a>
 				{% assign cat_size = page.category | size %}
 				{% if cat_size != 0 %}
 					{% for category in page.category %}
