@@ -11,7 +11,7 @@ image: assets/img/logos/cadworks.png
 short_description: "Reducere de 5% la produsele 3D CONNEXION, discounturi de pana la 25% la cursurile de instruire de pe platforma de training online Academia Cadworks, <br> alte facilități pentru soluțiile integrate 3D - aplicabile relațiilor B2B"
 
 # full details
-live_preview: www.cadworks.ro
+live_preview: https://www.cadworks.ro
 info:
   - label: Reducere
     value: 5% reducere la produse 3D CONNEXION
@@ -20,7 +20,7 @@ info:
     value: 25% reducere la cursuri
 
   - label: Contact
-    value: <a href="www.cadworks.ro" target="_blank">Website</a>
+    value: <a href="https://www.cadworks.ro" target="_blank">Website</a>
 
 
 description1:

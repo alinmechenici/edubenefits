@@ -29,6 +29,8 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
+lang: ro
+locale: ro_RO
 title: "EduBenefits"
 email: "cardbenefits@arti.ro"
 description: "EduBenefits: reduceri și beneficii la partenerii comunității Școlii Romano-Britanice din Craiova, Oltenia, Suceava și din toată țara."
@@ -84,6 +86,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - bin
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
