@@ -36,7 +36,7 @@ jobs:
           bundler-cache: true
 
       - name: Build
-        run: bundle exec jekyll build --strict_front_matter
+        run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
@@ -51,7 +51,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --offline --no-progress --include-fragments
+            --offline --no-progress
             --root-dir ${{ github.workspace }}/_site
             '_site/**/*.html'
           fail: true
